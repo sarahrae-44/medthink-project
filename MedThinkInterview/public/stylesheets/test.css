@@ -1,0 +1,67 @@
+body {
+  background-image: url("../images/white-trianglify-b79c7e1f.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90em;
+}
+
+.menu {
+  background-color: darkolivegreen  !important;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  padding-left: 2em;
+  box-shadow: 0px 5px 5px grey;
+  margin-bottom: 2em;
+}
+
+.menu a {
+  color: white;
+}
+
+.menu li:active  {
+  background-color: forestgreen;
+}
+
+.menu li {
+  padding: .5em;
+}
+
+.about-me-bullets {
+  font-size: 1.6em;
+  font-style: italic;
+  padding-left: 1em;
+}
+
+h1  {
+  color: darkmagenta;
+  font-weight: bold;
+  padding-left:  .5em;
+}
+
+.centered-image {
+  display: block;
+  margin: 0  auto;
+}
+
+button {
+  color: navy;
+  font-size:  1.6em;
+  font-weight: bold;
+  padding: 1em;
+}
+
+button:hover {
+  background-color: wheat;
+}
+
+#question {
+  padding-left: 2em;
+}
+
+#message {
+  color: mediumvioletred;
+  font-size: 1.4em;
+  font-weight: bold;
+}
